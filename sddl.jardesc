@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="D:/eclipse/workspace/Exported/sddl.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/SDDL/sddl.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="true"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=SDDL/src&lt;sddl{SddlFormat.java[SddlFormat" manifestLocation="/SDDL/sddl.MANIFEST" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/SDDL/sddl.jardesc"/>
+        <javaElement handleIdentifier="=SDDL/src"/>
+        <file path="/SDDL/.classpath"/>
+        <file path="/SDDL/sddl.MANIFEST"/>
+        <file path="/SDDL/.project"/>
+    </selectedElements>
+</jardesc>
