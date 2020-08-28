@@ -9,6 +9,6 @@ More information about SDDL can be found here: http://msdn.microsoft.com/en-us/l
 
 Dual License Apache2.0/MIT whichever is preferred to you.
 
-[Apache 2.0 License](license)
+[Apache 2.0 License](license)/
 [MIT License](license)
 
